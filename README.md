@@ -26,7 +26,7 @@ analyst = {
     "name"        : "Abdul Majid Memon",
     "role"        : "Junior Data Analyst",
     "location"    : "Shikarpur, Pakistan 🇵🇰",
-    "education"   : "BS Software Engineering · Quaid-e-Awam University of Engineering, Sciences & Technology",
+    "education"   : "BE Software Engineering · Quaid-e-Awam University of Engineering, Sciences & Technology",
     "focus"       : ["Data Analysis", "Business Intelligence", "Data Visualization"],
     "tools"       : ["Power BI", "SQL", "Python", "Excel"],
     "available"   : True  # Open to internships & junior roles

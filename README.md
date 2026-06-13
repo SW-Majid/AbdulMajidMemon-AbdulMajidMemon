@@ -71,65 +71,7 @@ analyst = {
 
 ---
 
-## 📁 Featured Projects
 
-> Each project solves a **real business problem** — not just a technical exercise.
-
----
-
-### 📊 01 — Sales Performance Dashboard (Power BI)
-**Business Problem:** A retail company couldn't identify which regions, products, or sales reps were underperforming — leading to missed revenue targets.  
-**Solution:** Built an interactive Power BI dashboard tracking KPIs: revenue by region, month-over-month growth, product profitability, and sales rep performance.  
-**Impact:** Enabled leadership to reallocate budget to top-performing regions, reducing report generation time by 80%.  
-**Stack:** `Power BI` `DAX` `Power Query` `Excel`  
-🔗 [View Repository](https://github.com/AbdulMajidMemon/sales-performance-dashboard)
-
----
-
-### 🔍 02 — Customer Churn Analysis (Python EDA)
-**Business Problem:** A subscription-based company was losing 23% of customers yearly without understanding why.  
-**Solution:** Performed end-to-end EDA using Python — profiled churn patterns by demographics, contract type, and usage behavior. Built visual storytelling with Matplotlib & Seaborn.  
-**Impact:** Identified 3 key churn drivers, enabling targeted retention campaigns with projected 15% churn reduction.  
-**Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook`  
-🔗 [View Repository](https://github.com/AbdulMajidMemon/customer-churn-analysis)
-
----
-
-### 🗃️ 03 — E-Commerce SQL Analytics
-**Business Problem:** An e-commerce business had 2+ years of raw transaction data but no structured way to query business insights.  
-**Solution:** Designed a relational database schema, wrote complex SQL queries (CTEs, window functions, subqueries) to analyze revenue trends, top products, and customer lifetime value.  
-**Impact:** Delivered 10+ ready-to-use business queries, reducing ad-hoc data request time from days to minutes.  
-**Stack:** `MySQL` `SQL` `CTEs` `Window Functions` `Subqueries`  
-🔗 [View Repository](https://github.com/AbdulMajidMemon/ecommerce-sql-analytics)
-
----
-
-### 📈 04 — Financial KPI Tracker (Excel Dashboard)
-**Business Problem:** A small business tracked financials manually in disconnected spreadsheets with no real-time KPI visibility.  
-**Solution:** Built a dynamic Excel dashboard with pivot tables, slicers, conditional formatting, and automated formulas tracking monthly P&L, cash flow, and budget vs. actuals.  
-**Impact:** Reduced monthly reporting preparation from 3 hours to 20 minutes.  
-**Stack:** `Microsoft Excel` `Pivot Tables` `Power Query` `Conditional Formatting` `Charts`  
-🔗 [View Repository](https://github.com/AbdulMajidMemon/financial-kpi-tracker)
-
----
-
-### 🏥 05 — Healthcare Data Cleaning & Analysis (Python)
-**Business Problem:** A healthcare dataset contained 35% missing values, duplicate records, and inconsistent formatting — making it unusable for reporting.  
-**Solution:** Built a full data cleaning pipeline in Python using Pandas — handled nulls, deduplicated records, standardized formats, and produced a clean dataset with documented assumptions.  
-**Impact:** Clean dataset enabled accurate reporting and reduced manual QA effort by 90%.  
-**Stack:** `Python` `Pandas` `NumPy` `Jupyter Notebook`  
-🔗 [View Repository](https://github.com/AbdulMajidMemon/healthcare-data-cleaning)
-
----
-
-### 💼 06 — HR Analytics Dashboard (Power BI)
-**Business Problem:** An HR team had no visibility into workforce trends — turnover rates, department headcount, or employee satisfaction scores.  
-**Solution:** Connected HR data to Power BI, built drill-through dashboards tracking headcount, attrition rates, tenure analysis, and satisfaction trends by department.  
-**Impact:** Helped HR leadership identify high-turnover departments 6 weeks faster than manual reporting.  
-**Stack:** `Power BI` `DAX` `Excel` `Data Modeling`  
-🔗 [View Repository](https://github.com/AbdulMajidMemon/hr-analytics-dashboard)
-
----
 
 ## 📂 Repository Structure
 

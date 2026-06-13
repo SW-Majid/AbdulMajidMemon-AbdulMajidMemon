@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1628,1B3A6B,C9A84C,F0D080&height=220&section=header&text=Abdul%20Majid%20Memon&fontSize=44&fontColor=F0D080&fontAlignY=38&desc=Junior%20Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F0D080&center=true&vCenter=true&width=750&lines= +Turning+Raw+Data+into+Business+Decisions;⚡+Power+BI+%7C+SQL+%7C+Python+%7C+Excel; +Junior+Data+Analyst+%7C+Open+to+Opportunities; +From+Data+Chaos+to+Crystal+Clear+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F0D080&center=true&vCenter=true&width=750&lines=📊+Turning+Raw+Data+into+Business+Decisions;⚡+Power+BI+%7C+SQL+%7C+Python+%7C+Excel;🎯+Junior+Data+Analyst+%7C+Open+to+Opportunities;🚀+From+Data+Chaos+to+Crystal+Clear+Insights)](https://git.io/typing-svg)
 
 <br/>
 
